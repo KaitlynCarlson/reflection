@@ -4,7 +4,7 @@ A reflection on the progress, lessons, and skills I have acquired thus far in my
 
 ![Reflection Cartoon](https://live.staticflickr.com/4833/31284205807_a2e1400b81_b.jpg)
 
-## The Road
+# The Road
 
 ### The Lessons Learned
 
@@ -34,7 +34,7 @@ Apart from the knowledge and experience I have gained which drives my growth as 
 
 I now know that I am an accomplished and comptetent coder.
 
-## The Way Forward
+# The Way Forward
 
 ### Goals Moving Forward
 

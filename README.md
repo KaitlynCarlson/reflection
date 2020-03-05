@@ -18,7 +18,7 @@ And, while those gifted with a natural inclination to math certainly succeed in 
 
 Through this course I have also come to find that Google, Stack Overflow, and documentation are a software engineer's best friend, and research skills are essential for success.
 
-Perhaps most importantly, I have learned that coding is **not about memorizing syntax.** In this course, the concepts are what students should aim to master. Once you've got the concepts down you can do anything by simply researching the syntax necessary but without an understanding of the language's capabilities and limitations it is not possible to execute any necessary action.
+Perhaps most importantly, I have learned that coding is **not about memorizing syntax.** In this course, the concepts are what students should aim to master. Once you've got the concepts down you can do anything by simply researching the syntax necessary but without an understanding of the language's capabilities and limitations it is not possible to efficienty execute any necessary action.
 
 ### The Accomplishments Achieved
 

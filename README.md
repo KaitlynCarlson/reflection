@@ -52,9 +52,17 @@ I want to get as much out of this course as I can. I have invested myself in thi
 
 Specifically, I hope to grow my Computer Science knowledge and understanding of algorithms so that I can write **better code.**
 
+I would also like to practice my interviewing skills in order to better prepare myself for the trials of the inevitable job hunt that lies ahead.
+
 ### Future Career Gains
 
 ---
+
+After completing this course, I hope to secure an internship.
+
+I feel that an internship, or apprenticeship, would secure a stronger career trajectory for me. As a coder and an avid student, I am ecstatic about entering into an industry where I will continue to learn and grow everyday.
+
+I believe that by beginning with an internship, rather than jumping straight into a role as a Junior Software Engineer will better prepare me in the long-term by ensuring a strong foundation from which I will continue to build myself and fine-tune my capabilities.
 
 ### The How
 

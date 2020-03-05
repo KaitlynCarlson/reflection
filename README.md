@@ -70,6 +70,10 @@ I believe that by beginning with an internship, rather than jumping straight int
 
 ---
 
+I plan to accomplish these goals by continuing to engage in the class, pursue additional education outside of the classroom and challenge myself as I work on both classwork and personal projects.
+
+I will network at coding meetups as well as job fairs in order to get my foot in the door.
+
 ### The Changes
 
 ---

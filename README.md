@@ -14,7 +14,7 @@ A reflection on the progress, lessons, and skills I have acquired thus far in my
 
 When I first applied to this course I suffered from the misconception that software engineering was a field reserved for those with Computer Science degrees, and out of reach for less mathematically inclined individuals such as myself.
 
-And, while those gifted with a natural inclination to math certainly succeed in software engineering roles they are not the sole proprietors of the field. This is because of logic, or coomon sense. I have come to realize being a good coder boils down to one's abiity to deconstruct a problem as it is presented and explore the problem's parameters in an effort to discover a simple, common sense solution.
+And, while those gifted with a natural inclination to math certainly succeed in software engineering roles they are not the sole proprietors of the field. This is because of logic, or common sense. I have come to realize being a good coder boils down to one's abiity to deconstruct a problem as it is presented and explore the problem's parameters in an effort to discover a simple, common sense solution.
 
 Through this course I have also come to find that Google, Stack Overflow, and documentation are a software engineer's best friend, and research skills are essential for success.
 

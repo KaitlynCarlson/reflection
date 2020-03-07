@@ -74,6 +74,8 @@ I plan to accomplish these goals by continuing to engage in the class, pursue ad
 
 I will network at coding meetups as well as job fairs in order to get my foot in the door.
 
+Most importantly, I will seek out opportunities to grow and learn as a software engineer. The expression "If I am the smartest person in the room, then I'm in the wrong room" seems to surmise what I hope to see unfold in my future. I intend to surround myself both in the classroom and in my career with people who drive me to do better and aim higher, and in doing so succeed in my endeavors. 
+
 ### The Changes
 
 ---
